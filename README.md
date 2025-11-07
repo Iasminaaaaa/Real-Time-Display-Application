@@ -42,7 +42,7 @@ Simply open the application in your browser to see the current time displayed in
 ## Author
 
 * Github: [@Iasminaaaaa](https://github.com/Iasminaaaaa)
-* LinkedIn: [@Iasmina Gușcă](www.linkedin.com/in/iasmina-gusca)
+* LinkedIn: [@Iasmina Gusca](www.linkedin.com/in/iasmina-gusca)
 
 ## Show your support
 
